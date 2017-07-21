@@ -1,0 +1,21 @@
+body{
+  background-color: #DD0509
+   !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.nav-link{
+  padding: 5px 10px 5px 10px !important;
+  color: white !important;
+  height: auto !important;
+  border-radius: 5px;
+  padding-top: 10px;
+  margin-left: 20px;
+  width: auto !important;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+  border-style: solid;
+  border-width: thin;
+  border-color: transparent;
+}
